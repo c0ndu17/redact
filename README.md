@@ -16,28 +16,26 @@ My Node/Express, React-Redux isomorphic boilerplate.
 
 ## Installation
 
-``bash
+```
 npm i
-``
-
+```
 
 ## Running Dev Server
 
-``bash
+```
 npm start
 ```
 
 ## Building for Prod
 
-``bash
+```
 npm run bs
 ```
 
 ## Running Prod Server
 
-``bash
+```
 npm run start:prod
 ```
-
 
 That's pretty much all you need to know. This is actually just for me, but why not share it with the world... wide web.
